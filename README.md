@@ -1,2 +1,2 @@
 # Gerenciamento-de-Alunos
-A simple project with showing how to use JQuery, Asp Net MVC, Web Api 2.0 an EF 6.0 for simple CRUD operations.
+A simple design that shows how to use JQuery , Asp Net MVC , Web API 2.0 and 6.0 EF together for simple CRUD operations.
